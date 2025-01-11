@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Hello! 👋
 
 Hello! I'm Mohammed Zeeshan M, a passionate **B.Tech student** with a keen interest in **Machine Learning, Data Science and Full Stack Development**. I have a deep love for solving problems and creating innovative solutions.
 
