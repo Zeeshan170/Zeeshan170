@@ -2,7 +2,7 @@
 
 Hello! I'm Mohammed Zeeshan M, a passionate **B.Tech student** with a keen interest in **Machine Learning, Data Science and Full Stack Development**. I have a deep love for solving problems and creating innovative solutions.
 
-## 🌱 Skills & Interests
+## Skills & Interests
 
 <div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
